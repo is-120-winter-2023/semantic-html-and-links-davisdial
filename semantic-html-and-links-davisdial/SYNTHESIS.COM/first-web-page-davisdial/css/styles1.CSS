@@ -1,0 +1,39 @@
+.h1
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 75px;
+    font-stretch: ultra-expanded;
+    font-stretch: narrower;
+    color: darkgray;
+    margin-left: 30px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+.c1
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: darkgray;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+} 
+
+.bg
+{
+background-color: rgb(41, 41, 245);
+content-visibility: full;
+height: auto;
+}
+
+.img1
+{
+height: fit-content;
+align-items: center;
+}
+
+.bg2
+{
+    background-color: white;
+}
